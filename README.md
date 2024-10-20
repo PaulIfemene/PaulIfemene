@@ -17,7 +17,7 @@ Skills:
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/ifemene-paul-86a01b2a8)
 
-[<img src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white'>](https://join.slack.com/t/webandmobilea-ib61691/shared_invite/zt-
+[<img src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white'>]
 
 # My Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulIfemene&show_icons=true&theme=radical) 
