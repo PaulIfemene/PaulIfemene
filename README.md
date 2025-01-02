@@ -22,4 +22,4 @@ Skills:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulIfemene&show_icons=true&theme=radical) 
 
 # My Progress
-![GitHub Streak](https://streak-stats.demolab.com?user=PaulIfemene&theme=radical)
+[GitHub Streak](https://streak-stats.demolab.com?user=PaulIfemene&theme=radical)
