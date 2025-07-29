@@ -210,3 +210,215 @@
 </body>
 
 </html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal Bio of Ifemene Paul Chukwumaobim">
+    <title>Ifemene Paul Chukwumaobim - Personal Bio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #243;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 5px;
+        }
+
+        .profile-img {
+            border-radius: 50%;
+            width: 150px; 
+            height: 150px; 
+            float: left; 
+            margin-right: 20px; 
+            margin-bottom: 20px; 
+        }
+
+        .content ul, .content ol {
+            padding-left: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        table, th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #2c3e50;
+            color: white;
+        }
+
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: static;
+            width: 100%;
+            bottom: 0;
+        }
+
+        /* Portfolio Styles */
+        .portfolio {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .portfolio-item {
+            flex: 1 1 30%; /* Responsive item size */
+            margin: 10px;
+            background-color: #eaeaea;
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .portfolio-item img {
+            max-width: 100%;
+            border-radius: 5px;
+        }
+
+        /* Responsive Styles */
+        @media (max-width: 768px) {
+            .portfolio-item {
+                flex: 1 1 45%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .portfolio-item {
+                flex: 1 1 100%;
+            }
+
+            .profile-img {
+                float: none;
+                display: block;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Ifemene Paul Chukwumaobim</h1>
+    </header>
+
+    <section class="content">
+        <img src="Paul.jpg" alt="Photo of Ifemene Paul Chukwumaobim" class="profile-img">
+
+        <h2>About Me</h2>
+        <p>Hello! My name is Paul Ifemene Chukwumaobim, a citizen of Anambra State, Nigeria. I am a Christian.</p>
+        <p>I am an International student at Ugandan Christian University pursuing a bachelor's degree in IT.</p>
+        <p>The IT field is very vast, but there are specific areas that capture my interest the most, areas like UI/UX design, Cyber Security, Front-End Development, Robotics, AI, and Project Management in IT.</p>
+
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Programming and AI Development</li>
+            <li>UI/UX Design</li>
+            <li>Robotics</li>
+            <li>Creating Music and playing the Guitar</li>
+            <li>Exploring Philosophy</li>
+        </ul>
+
+        <h2>Skills</h2>
+        <table>
+            <tr>
+                <th>Skill</th>
+                <th>Proficiency</th>
+            </tr>
+            <tr>
+                <td>Python Programming</td>
+                <td>Advanced</td>
+            </tr>
+            <tr>
+                <td>UI/UX Design</td>
+                <td>Intermediate</td>
+            </tr>
+            <tr>
+                <td>Robotics</td>
+                <td>Beginner</td>
+            </tr>
+            <tr>
+                <td>Music Production</td>
+                <td>Intermediate</td>
+            </tr>
+        </table>
+
+        <h2>Portfolio</h2>
+        <div class="portfolio">
+            <div class="portfolio-item">
+                <img src="finance.jpg" alt="Project 1">
+                <h3>Personal Finance Tracker</h3>
+                <p>A web application to help users manage their finances, track expenses, and set savings goals.</p>
+            </div>
+            <div class="portfolio-item">
+                <img src="chatbot.jpg" alt="Project 2">
+                <h3>AI Chatbot for Student Services</h3>
+                <p>A chatbot that assists students with queries related to university services and events.</p>
+            </div>
+            <div class="portfolio-item">
+                <img src="power.jpg" alt="Project 3">
+                <h3>Smart Power Management System</h3>
+                <p>A system that monitors and controls energy consumption of home appliances, optimizing power usage.</p>
+            </div>
+        </div>
+
+        <h2>Contact Me</h2>
+        <p>Feel free to connect with me on <a href="https://www.linkedin.com/in/ifemene-paul-86a01b2a8/" target="_blank">LinkedIn</a> or check out my <a href="https://github.com/PaulIfemene" target="_blank">GitHub</a> for projects I'm working on.</p>
+        <p><strong>Contact me on WhatsApp:</strong> +256 778 678 553 <strong>or</strong> +256 745 929 188</p>
+        <p><strong>Email:</strong> ifemenep@gmail.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Ifemene Paul Chukwumaobim. All Rights Reserved.</p>
+    </footer>
+
+</body>
+
+</html>
