@@ -5,7 +5,7 @@ I’m an IT student and freelance consultant building a career in AI, embedded s
 Skills: 
 💻 JS, HTML, CSS, PYTHON, C |👨🏾‍💻 Figma, |⚛ Git, SQL, React|🧠 Problem Solving |🗣 Communication | Team work and Collaboration 
 
-### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/PaulIfemene.svg)](https://user-badge.committers.top/uganda_public/PaulIfemene) in Uganda
+### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/PaulIfemene.svg)](https://user-badge.committers.top/uganda_public/PaulIfemene) in Uganda 
 
 # My Expertise 
 
@@ -13,6 +13,7 @@ Skills:
  
 # Learning 
 <img src='https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white'> <img src='https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347'>  <img src='https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white'> 
+
 
 # Connect with me here 
 
@@ -25,3 +26,5 @@ Skills:
 
 # My Progress
 ![GitHub Streak](https://streak-stats.demolab.com?user=PaulIfemene&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=PaulIfemene&color=green) <br />
