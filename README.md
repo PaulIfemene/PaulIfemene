@@ -1,8 +1,7 @@
 👋 Hi, I'm Paul Chukwumaobim
-💻 I'm an IT student passionate about AI, web and application development, and Python programming. I enjoy solving problems with my skills in UI/UX design, robotics, and building scalable systems. I enjoy learning and exploring new technologies
-Fun Fact: I love Music, Extrovert Developer😜😜
+I’m an IT student and freelance consultant building a career in AI, embedded systems, and software engineering. I develop scalable solutions with Python and solve real-world problems by combining technical expertise with collaboration and creative execution. I thrive on continuous learning and hands-on innovation with emerging technologies.
 Skills: 
-💻 JS, HTML, CSS, PYTHON |👨🏾‍💻 Figma, |⚛ Git, SQL, React|🧠 Problem Solving |🗣 Communication | Team work and Collaboration 
+💻 JS, HTML, CSS, PYTHON, C |👨🏾‍💻 Figma, |⚛ Git, SQL, React|🧠 Problem Solving |🗣 Communication | Team work and Collaboration 
 
 [![committers.top badge](https://user-badge.committers.top/uganda/USERNAME.svg)](https://user-badge.committers.top/uganda/USERNAME)
 # My Expertise 
