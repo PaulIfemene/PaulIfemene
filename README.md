@@ -1,4 +1,4 @@
-👋 Hi, I'm Paul Chukwumaobim
+Hi, I'm Paul Chukwumaobim
 
 I’m an IT student and freelance consultant building a career in AI, embedded systems, and software engineering. I develop scalable solutions with Python and solve real-world problems by combining technical expertise with collaboration and creative execution. I thrive on continuous learning and hands-on innovation with emerging technologies.
 Skills: 
