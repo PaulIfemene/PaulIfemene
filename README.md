@@ -5,7 +5,7 @@ I’m an IT student and freelance consultant building a career in AI, embedded s
 Skills: 
 💻 JS, HTML, CSS, PYTHON, C |👨🏾‍💻 Figma, |⚛ Git, SQL, React|🧠 Problem Solving |🗣 Communication | Team work and Collaboration 
 
-### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/PaulIfemene.svg)](https://user-badge.committers.top/uganda_public/PaulIfemene) in Uganda
+## I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/PaulIfemene.svg)](https://user-badge.committers.top/uganda_public/PaulIfemene) in Uganda
 
 # My Expertise 
 
