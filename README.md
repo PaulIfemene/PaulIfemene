@@ -5,11 +5,11 @@ I’m an IT student and freelance consultant building a career in AI, embedded s
 Skills: 
 💻 JS, HTML, CSS, PYTHON, C |👨🏾‍💻 Figma, |⚛ Git, SQL, React|🧠 Problem Solving |🗣 Communication | Team work and Collaboration 
 
-### I curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/PaulIfemene.svg)](https://user-badge.committers.top/uganda_public/PaulIfemene)
+### I Curenttly rank [![committers.top badge](https://user-badge.committers.top/uganda_public/PaulIfemene.svg)](https://user-badge.committers.top/uganda_public/PaulIfemene)
 
 ### I Currently rank [![committers.top badge](https://user-badge.committers.top/uganda/PaulIfemene.svg)](https://user-badge.committers.top/uganda/PaulIfemene)
 
-### I Currently rank[![committers.top badge](https://user-badge.committers.top/uganda_private/PaulIfemene.svg)](https://user-badge.committers.top/uganda_private/PaulIfemene)
+### I Currently rank [![committers.top badge](https://user-badge.committers.top/uganda_private/PaulIfemene.svg)](https://user-badge.committers.top/uganda_private/PaulIfemene)
 # My Expertise 
 
 <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'> <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'> <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> <img src=' https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white'> <img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white'>
